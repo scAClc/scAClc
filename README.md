@@ -25,7 +25,7 @@ is publicly available at https://github.com/scAClc/scAClc.
 ## Installation
 
 1. Download and install Anaconda.
-   ```git clone https://github.com/zhengyucai-lib/scAClc```
+   ```git clone https://github.com/scAClc/scAClc```
 
 2. Create the prosperousplus environment.
 
