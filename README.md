@@ -40,7 +40,7 @@ is publicly available at https://github.com/scAClc/scAClc.
 
 ## Datasets
 
-Some of data used in our experiments can be found in [`data`](https://github.com/scAClc/scAClc/tree/main/dataset). Complete data can be found in [`zenodo`](https://zenodo.org/record/17430163)
+Some of the datasets used in our experiments can be found in [`dataset`](https://github.com/scAClc/scAClc/tree/main/dataset). The complete datasets can be found in [`zenodo`](https://zenodo.org/record/17430163)
 
 
 ## Quick start
