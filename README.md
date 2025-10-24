@@ -38,6 +38,11 @@ is publicly available at https://github.com/scAClc/scAClc.
    ```pip install or conda install```
 
 
+## Datasets
+
+Some of data used in our experiments can be found in [`data`](https://github.com/scAClc/scAClc/tree/main/data). Complete data can be found in [`zenodo`]([https://zenodo.org/record/17430163])
+
+
 ## Quick start
 
 Load the data to be analyzed:
